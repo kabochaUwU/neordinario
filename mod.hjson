@@ -1,0 +1,8 @@
+name: "neordinario"
+displayName: "Neordinario"
+author: kabochaUwU
+description: my first java mod about something
+version: "0.1"
+minGameVersion: "146"
+dependencies: []
+hidden: false
