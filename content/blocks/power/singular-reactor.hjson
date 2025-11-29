@@ -1,0 +1,28 @@
+{
+    "type": "NuclearReactor",
+    "health": 1200,
+    "itemCapacity": 10,
+    "size": 2,
+    "lightColor": "E555D2FF",
+    "explosionRadius": 20,
+    "explosionDamage": 3000,
+    "hasLiquids": true,
+    "powerProduction": 100,
+    "itemDuration": 400,
+    "consumes": {
+    "items": {
+      "items": [
+        "silicon/1"
+      ]
+    },
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": 0.2
+    }
+  },
+  "requirements": [
+    "titanium/10"
+  ],
+  "category": "power",
+  "research": "thorium-reactor"
+}
